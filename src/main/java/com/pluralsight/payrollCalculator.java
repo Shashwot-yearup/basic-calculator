@@ -20,6 +20,8 @@ public class payrollCalculator {
 
         double grossPay = hours * hourlyPay; // calulated the gross pay
 
+        //printed the output.
+        System.out.println(Name + " your gross income is " + grossPay);
 
 
 

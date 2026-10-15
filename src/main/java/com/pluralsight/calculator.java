@@ -29,9 +29,5 @@ public class calculator {
         // does the multiplication
         int total = firstNumber * secondNumber;
         System.out.println(firstNumber + " * " + secondNumber + " = " +total);
-
-
-
-
     }
 }

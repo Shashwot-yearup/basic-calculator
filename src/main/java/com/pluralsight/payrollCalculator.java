@@ -10,6 +10,10 @@ public class payrollCalculator {
         System.out.println("What is your name:");
         String Name = scanner.nextLine();
 
+        //asked for their hours
+        System.out.println("How many hours do you work:");
+        double hours = scanner.nextInt();
+
 
 
 

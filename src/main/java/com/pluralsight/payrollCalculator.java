@@ -12,7 +12,17 @@ public class payrollCalculator {
 
         //asked for their hours
         System.out.println("How many hours do you work:");
-        double hours = scanner.nextInt();
+        double hours = scanner.nextDouble();
+
+        //asked for their hourly pay
+        System.out.println("What is your hourly pay:");
+        double hourlyPay = scanner.nextDouble();
+
+        double grossPay = hours * hourlyPay; // calulated the gross pay
+
+
+
+
 
 
 

@@ -22,12 +22,5 @@ public class payrollCalculator {
 
         //printed the output.
         System.out.println(Name + " your gross income is " + grossPay);
-
-
-
-
-
-
-
     }
 }
